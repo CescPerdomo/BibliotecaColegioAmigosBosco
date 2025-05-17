@@ -6,7 +6,7 @@ El **Sistema de Biblioteca Colegio Amigos de Don Bosco** es una aplicación de e
 ## Tecnologías Utilizadas
 - **Java 8**
 - **Swing**
-- **MySQL**
+- **MySQL** (src/biblioteca.sql)
 - **JDBC**
 - **Log4J**
 
