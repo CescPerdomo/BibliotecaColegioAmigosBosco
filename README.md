@@ -1,4 +1,4 @@
-#Sistema de Biblioteca Colegio Amigos de Don Bosco
+Sistema de Biblioteca Colegio Amigos de Don Bosco
 
 Descripciion del Proyecto
 El Sistema de Biblioteca Colegio Amigos de Don Bosco es una aplicación de escritorio diseñada para gestionar libros, revistas y materiales audiovisuales. Este sistema permite realizar operaciones de préstamo, devolución, cálculo de mora, renovación de préstamos y gestión de usuarios. Además, aplica lógica condicional basada en roles: ADMIN, PROFESOR y ALUMNO, asegurando que cada usuario tenga acceso a las funcionalidades adecuadas según su rol.
